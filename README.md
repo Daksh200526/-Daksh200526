@@ -9,11 +9,10 @@
 
 ## 🧠 About Me
 
-- 🎓 Pursuing B.E. in Computer Science | CGPA: 7.5
-- 📊 Passionate about **Data Science, AI, and Full Stack Development**
+- 🎓 Pursuing B.E. in Information Science | CGPA: 7.8
+- 📊 Passionate about **Data Science, AI, ML and Full Stack Development using Python**
 - 🚀 Currently building a **Multi-Agent AI Data Analyst** platform
 - 📈 Created projects in **Power BI**, **Python**, **Flask**, and **Machine Learning**
-- 🏋️ On a mission to gain weight naturally (from 55kg to 70kg 💪)
 - 📨 Reach me: **daksheshs2004@gmail.com**
 
 ---
@@ -73,7 +72,7 @@
 
 - ✅ **DSA in C – HackerRank**
 - ✅ **Power BI Fundamentals – Microsoft**
-- 🧠 Currently learning: **Docker, CI/CD, and React**
+- 🧠 Machine learning from Coursera
 
 ---
 
